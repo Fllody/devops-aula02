@@ -1,4 +1,3 @@
-# devops-aula02
-
-# nova linha
-Megan Fox
+# Megan Fox
+# Bruna Marquezine
+# Angelina Jolie
