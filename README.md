@@ -1,3 +1,4 @@
 # Megan Fox
-# Bruna Marquezine
+# Elizabeth Taylor 
 # Angelina Jolie
+# Keira Knightley
